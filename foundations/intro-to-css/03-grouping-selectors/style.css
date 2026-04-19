@@ -1,1 +1,9 @@
-/* Add CSS Styling */
+button.left {
+    background-color:black;
+    color:white;
+    font-size:x-large;
+}
+button.right {
+    background-color:yellow;
+    font-size:x-large;
+}
